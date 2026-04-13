@@ -1,4 +1,4 @@
-# ☁️ SoundCloud Desktop + Discord RPC
+# ☁️ SoundCloud Desktop for Windows + Discord RPC
 
 Удобный десктопный клиент для SoundCloud с полноценной интеграцией в Discord. Теперь твои друзья увидят, что ты слушаешь, в реальном времени.
 
