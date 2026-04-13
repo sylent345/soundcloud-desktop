@@ -1,0 +1,30 @@
+{
+  "name": "soundcloud",
+  "version": "1.0.0",
+  "main": "main.js",
+  "author": "s1lnt",
+  "description": "SoundCloud Desktop with Discord RPC",
+  "scripts": {
+    "start": "electron .",
+    "dist": "electron-builder"
+  },
+  "build": {
+    "appId": "com.s1lnt.soundcloud",
+    "productName": "superplayer",
+    "icon": "icon.ico",
+    "directories": {
+      "output": "dist"
+    },
+    "win": {
+      "target": "portable",
+      "icon": "build/icon.ico"
+    }
+  },
+  "dependencies": {
+    "discord-rpc": "^4.0.1"
+  },
+  "devDependencies": {
+    "electron": "^30.0.0",
+    "electron-builder": "^24.13.3"
+  }
+}
