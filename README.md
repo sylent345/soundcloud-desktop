@@ -19,7 +19,7 @@
 ## 🚀 Как пользоваться
 1. Зайди в раздел [Releases](https://github.com/sylent345/soundcloud-desktop/releases).
 2. Скачай архив `SoundCloud Desktop.zip`.
-3. Распакуй zip-архив
+3. Распакуй архив
 4. Запусти SoundCloud Desktop.exe (убедись, что Discord открыт).
 5. Слушай песенке.
 
